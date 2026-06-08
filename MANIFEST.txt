@@ -1,0 +1,12 @@
+Included:
+- materjalide-sobitaja-demo.html
+- app.py
+- data/products.json
+- load_to_postgres.py
+- normalize_to_pg.py
+- schema_normalize.sql
+- README.md
+- AUDIT.md
+- NEXT_STEPS.md
+- QUICK_START.md
+- run.sh
