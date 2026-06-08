@@ -1,0 +1,26 @@
+[
+  {
+    "code": "oil_diesel",
+    "name": "Diesel / oil mix",
+    "phase": "liquid",
+    "hazard_class": "hydrocarbon"
+  },
+  {
+    "code": "water_salt",
+    "name": "Salt water",
+    "phase": "liquid",
+    "hazard_class": "aqueous"
+  },
+  {
+    "code": "uv_exposure",
+    "name": "UV exposure",
+    "phase": "environment",
+    "hazard_class": "weathering"
+  },
+  {
+    "code": "snow_slurry",
+    "name": "Snow / slush",
+    "phase": "solid-liquid",
+    "hazard_class": "winter"
+  }
+]

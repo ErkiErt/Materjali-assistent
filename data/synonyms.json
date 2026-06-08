@@ -1,0 +1,42 @@
+[
+  {
+    "term": "õlipaagi tihend",
+    "normalized": "oilfuel"
+  },
+  {
+    "term": "oil seal",
+    "normalized": "oilfuel"
+  },
+  {
+    "term": "fuel tank gasket",
+    "normalized": "oilfuel"
+  },
+  {
+    "term": "lund lükata",
+    "normalized": "lumelükkamine"
+  },
+  {
+    "term": "lumesahk",
+    "normalized": "lumelükkamine"
+  },
+  {
+    "term": "snow plow",
+    "normalized": "lumelükkamine"
+  },
+  {
+    "term": "terrass",
+    "normalized": "terrass"
+  },
+  {
+    "term": "fender",
+    "normalized": "sadam"
+  },
+  {
+    "term": "vender",
+    "normalized": "sadam"
+  },
+  {
+    "term": "vuuk",
+    "normalized": "ehitus"
+  }
+]

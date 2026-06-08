@@ -1,0 +1,1 @@
+Complete v2 prototype built for testing. Remaining gaps: production-scale chemical matrix, full validation, indexes, CRUD, deployment.

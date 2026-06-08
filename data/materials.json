@@ -1,0 +1,62 @@
+[
+  {
+    "code": "epdm",
+    "name": "EPDM",
+    "family": "elastomer",
+    "desc": "Weather and UV resistant elastomer",
+    "oil": "poor",
+    "fuel": "poor",
+    "uv": "excellent",
+    "temp_min": -40,
+    "temp_max": 120,
+    "hardness": 70
+  },
+  {
+    "code": "nbr",
+    "name": "NBR",
+    "family": "elastomer",
+    "desc": "Oil and fuel resistant nitrile rubber",
+    "oil": "excellent",
+    "fuel": "good",
+    "uv": "fair",
+    "temp_min": -30,
+    "temp_max": 100,
+    "hardness": 75
+  },
+  {
+    "code": "fkm",
+    "name": "FKM",
+    "family": "elastomer",
+    "desc": "High temperature fluoroelastomer",
+    "oil": "excellent",
+    "fuel": "excellent",
+    "uv": "excellent",
+    "temp_min": -20,
+    "temp_max": 200,
+    "hardness": 75
+  },
+  {
+    "code": "sbr",
+    "name": "SBR",
+    "family": "elastomer",
+    "desc": "General purpose rubber",
+    "oil": "poor",
+    "fuel": "poor",
+    "uv": "fair",
+    "temp_min": -35,
+    "temp_max": 90,
+    "hardness": 80
+  },
+  {
+    "code": "pu",
+    "name": "PU",
+    "family": "polyurethane",
+    "desc": "Abrasion resistant polyurethane",
+    "oil": "good",
+    "fuel": "good",
+    "uv": "good",
+    "temp_min": -30,
+    "temp_max": 80,
+    "hardness": 85
+  }
+]

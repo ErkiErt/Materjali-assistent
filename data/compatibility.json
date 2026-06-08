@@ -1,0 +1,142 @@
+[
+  {
+    "material_code": "epdm",
+    "chemical_code": "oil_diesel",
+    "rating": "X",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "epdm",
+    "chemical_code": "water_salt",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "epdm",
+    "chemical_code": "uv_exposure",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "epdm",
+    "chemical_code": "snow_slurry",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "nbr",
+    "chemical_code": "oil_diesel",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "nbr",
+    "chemical_code": "water_salt",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "nbr",
+    "chemical_code": "uv_exposure",
+    "rating": "C",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "nbr",
+    "chemical_code": "snow_slurry",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "fkm",
+    "chemical_code": "oil_diesel",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "fkm",
+    "chemical_code": "water_salt",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "fkm",
+    "chemical_code": "uv_exposure",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "fkm",
+    "chemical_code": "snow_slurry",
+    "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "sbr",
+    "chemical_code": "oil_diesel",
+    "rating": "X",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "sbr",
+    "chemical_code": "water_salt",
+    "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "sbr",
+    "chemical_code": "uv_exposure",
+    "rating": "C",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "sbr",
+    "chemical_code": "snow_slurry",
+    "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "pu",
+    "chemical_code": "oil_diesel",
+    "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "pu",
+    "chemical_code": "water_salt",
+    "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "pu",
+    "chemical_code": "uv_exposure",
+    "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "pu",
+    "chemical_code": "snow_slurry",
+    "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  }
+]
