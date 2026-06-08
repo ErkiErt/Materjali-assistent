@@ -22,5 +22,11 @@
     "name": "Snow / slush",
     "phase": "solid-liquid",
     "hazard_class": "winter"
+  },
+  {
+    "code": "acid_mild",
+    "name": "Mild acid",
+    "phase": "liquid",
+    "hazard_class": "acid"
   }
 ]

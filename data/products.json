@@ -4,29 +4,10 @@
     "name": "Rubber snow plow blade",
     "category": "lumelükkamine",
     "material_code": "sbr",
-    "search_terms": [
-      "lund lükata",
-      "lumesahk",
-      "snow plow"
-    ],
     "technical": {
       "hardness": 80,
-      "brittle_temp": -25
-    }
-  },
-  {
-    "sku": "OIL-001",
-    "name": "NBR oil tank gasket",
-    "category": "oilfuel",
-    "material_code": "nbr",
-    "search_terms": [
-      "õlipaagi tihend",
-      "oil seal",
-      "fuel tank gasket"
-    ],
-    "technical": {
-      "oil_resistance": "excellent",
-      "fuel_resistance": "good"
+      "brittle_temp": -25,
+      "abrasion": "high"
     }
   },
   {
@@ -34,12 +15,9 @@
     "name": "Polyurethane snow plow blade",
     "category": "lumelükkamine",
     "material_code": "pu",
-    "search_terms": [
-      "lumelükkamine",
-      "snow blade"
-    ],
     "technical": {
-      "abrasion": "high"
+      "abrasion": "high",
+      "impact": "high"
     }
   },
   {
@@ -47,10 +25,6 @@
     "name": "Snow plow deflector",
     "category": "lumelükkamine",
     "material_code": "sbr",
-    "search_terms": [
-      "snow plow",
-      "deflector"
-    ],
     "technical": {
       "abrasion": "good"
     }
@@ -60,12 +34,27 @@
     "name": "Snow plow rubber strip",
     "category": "lumelükkamine",
     "material_code": "sbr",
-    "search_terms": [
-      "snow plow",
-      "rubber strip"
-    ],
     "technical": {
       "abrasion": "good"
+    }
+  },
+  {
+    "sku": "WIN-005",
+    "name": "Snow plow wear plate",
+    "category": "lumelükkamine",
+    "material_code": "pu",
+    "technical": {
+      "wear": "high"
+    }
+  },
+  {
+    "sku": "OIL-001",
+    "name": "NBR oil tank gasket",
+    "category": "oilfuel",
+    "material_code": "nbr",
+    "technical": {
+      "oil_resistance": "excellent",
+      "fuel_resistance": "good"
     }
   },
   {
@@ -73,13 +62,18 @@
     "name": "FKM premium gasket",
     "category": "oilfuel",
     "material_code": "fkm",
-    "search_terms": [
-      "oil seal",
-      "fkm",
-      "viton"
-    ],
     "technical": {
-      "temp_max": 200
+      "temp_max": 200,
+      "chemical_resistance": "excellent"
+    }
+  },
+  {
+    "sku": "OIL-003",
+    "name": "Reinforced NBR sheet gasket",
+    "category": "oilfuel",
+    "material_code": "nbr",
+    "technical": {
+      "compression_set": "good"
     }
   },
   {
@@ -87,25 +81,8 @@
     "name": "Terrace pad EPDM",
     "category": "terrass",
     "material_code": "epdm",
-    "search_terms": [
-      "terrass",
-      "tuulutus"
-    ],
     "technical": {
       "drainage": "yes"
-    }
-  },
-  {
-    "sku": "WIN-005",
-    "name": "Snow plow edge wear plate",
-    "category": "lumelükkamine",
-    "material_code": "pu",
-    "search_terms": [
-      "wear plate",
-      "snow plow"
-    ],
-    "technical": {
-      "wear": "high"
     }
   },
   {
@@ -113,10 +90,6 @@
     "name": "Marine fender",
     "category": "sadam",
     "material_code": "pu",
-    "search_terms": [
-      "fender",
-      "kai"
-    ],
     "technical": {
       "impact": "high"
     }
@@ -126,12 +99,17 @@
     "name": "Concrete joint seal",
     "category": "ehitus",
     "material_code": "epdm",
-    "search_terms": [
-      "vuuk",
-      "betoon"
-    ],
     "technical": {
       "sealing": "waterproof"
+    }
+  },
+  {
+    "sku": "WIN-006",
+    "name": "Winter rubber edge",
+    "category": "lumelükkamine",
+    "material_code": "sbr",
+    "technical": {
+      "cold": "good"
     }
   }
 ]

@@ -1,0 +1,83 @@
+[
+  {
+    "rule_code": "oilfuel_primary",
+    "category": "oilfuel",
+    "synonyms": [
+      "õlipaagi tihend",
+      "oil seal",
+      "fuel tank gasket"
+    ],
+    "must_have": [
+      "oil_resistance"
+    ],
+    "exclude_categories": [
+      "lumelükkamine",
+      "terrass",
+      "sadam"
+    ]
+  },
+  {
+    "rule_code": "snow_primary",
+    "category": "lumelükkamine",
+    "synonyms": [
+      "lund lükata",
+      "lumesahk",
+      "snow plow",
+      "snow blade"
+    ],
+    "must_have": [
+      "abrasion"
+    ],
+    "exclude_categories": [
+      "oilfuel",
+      "terrass",
+      "ehitus"
+    ]
+  },
+  {
+    "rule_code": "terrace_primary",
+    "category": "terrass",
+    "synonyms": [
+      "terrass",
+      "tuulutus"
+    ],
+    "must_have": [
+      "drainage"
+    ],
+    "exclude_categories": [
+      "oilfuel",
+      "lumelükkamine"
+    ]
+  },
+  {
+    "rule_code": "marine_primary",
+    "category": "sadam",
+    "synonyms": [
+      "fender",
+      "vender",
+      "kai"
+    ],
+    "must_have": [
+      "impact"
+    ],
+    "exclude_categories": [
+      "oilfuel",
+      "lumelükkamine"
+    ]
+  },
+  {
+    "rule_code": "construction_primary",
+    "category": "ehitus",
+    "synonyms": [
+      "vuuk",
+      "betoon"
+    ],
+    "must_have": [
+      "sealing"
+    ],
+    "exclude_categories": [
+      "oilfuel",
+      "lumelükkamine"
+    ]
+  }
+]

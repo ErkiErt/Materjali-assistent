@@ -1,9 +1,5 @@
-
-# Next Steps
-- Add chemical resistance table.
-- Add material family master table.
-- Add synonym table.
-- Add validation constraints.
-- Add search indexes.
-- Add ranking weights by category.
-- Add production ETL script.
+1. CRUD
+2. validations
+3. tests
+4. deployment
+5. catalog expansion

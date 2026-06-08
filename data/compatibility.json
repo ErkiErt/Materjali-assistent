@@ -28,6 +28,13 @@
     "note": "general guidance"
   },
   {
+    "material_code": "epdm",
+    "chemical_code": "acid_mild",
+    "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
     "material_code": "nbr",
     "chemical_code": "oil_diesel",
     "rating": "E",
@@ -37,7 +44,7 @@
   {
     "material_code": "nbr",
     "chemical_code": "water_salt",
-    "rating": "E",
+    "rating": "G",
     "temp_c": 20,
     "note": "general guidance"
   },
@@ -56,6 +63,13 @@
     "note": "general guidance"
   },
   {
+    "material_code": "nbr",
+    "chemical_code": "acid_mild",
+    "rating": "C",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
     "material_code": "fkm",
     "chemical_code": "oil_diesel",
     "rating": "E",
@@ -65,7 +79,7 @@
   {
     "material_code": "fkm",
     "chemical_code": "water_salt",
-    "rating": "E",
+    "rating": "G",
     "temp_c": 20,
     "note": "general guidance"
   },
@@ -80,6 +94,13 @@
     "material_code": "fkm",
     "chemical_code": "snow_slurry",
     "rating": "E",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "fkm",
+    "chemical_code": "acid_mild",
+    "rating": "G",
     "temp_c": 20,
     "note": "general guidance"
   },
@@ -112,6 +133,13 @@
     "note": "general guidance"
   },
   {
+    "material_code": "sbr",
+    "chemical_code": "acid_mild",
+    "rating": "C",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
     "material_code": "pu",
     "chemical_code": "oil_diesel",
     "rating": "G",
@@ -121,7 +149,7 @@
   {
     "material_code": "pu",
     "chemical_code": "water_salt",
-    "rating": "G",
+    "rating": "E",
     "temp_c": 20,
     "note": "general guidance"
   },
@@ -136,6 +164,13 @@
     "material_code": "pu",
     "chemical_code": "snow_slurry",
     "rating": "G",
+    "temp_c": 20,
+    "note": "general guidance"
+  },
+  {
+    "material_code": "pu",
+    "chemical_code": "acid_mild",
+    "rating": "C",
     "temp_c": 20,
     "note": "general guidance"
   }

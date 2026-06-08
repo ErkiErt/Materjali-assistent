@@ -12,6 +12,14 @@
     "normalized": "oilfuel"
   },
   {
+    "term": "õli",
+    "normalized": "oilfuel"
+  },
+  {
+    "term": "kütus",
+    "normalized": "oilfuel"
+  },
+  {
     "term": "lund lükata",
     "normalized": "lumelükkamine"
   },
@@ -21,6 +29,10 @@
   },
   {
     "term": "snow plow",
+    "normalized": "lumelükkamine"
+  },
+  {
+    "term": "snow blade",
     "normalized": "lumelükkamine"
   },
   {
@@ -38,5 +50,13 @@
   {
     "term": "vuuk",
     "normalized": "ehitus"
+  },
+  {
+    "term": "aknatihend",
+    "normalized": "aknatihend"
+  },
+  {
+    "term": "chemical resistance",
+    "normalized": "chemical"
   }
 ]
