@@ -58,5 +58,17 @@
   {
     "term": "chemical resistance",
     "normalized": "chemical"
+  },
+  {
+    "term": "sahk",
+    "normalized": "lumelükkamine"
+  },
+  {
+    "term": "lume sahk",
+    "normalized": "lumelükkamine"
+  },
+  {
+    "term": "plow",
+    "normalized": "lumelükkamine"
   }
 ]

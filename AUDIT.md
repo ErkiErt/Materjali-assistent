@@ -1,1 +1,1 @@
-Ready to start work, but missing production CRUD, tests, migrations, deployment and full chemical catalog.
+Fixed snow-plow keyword routing for sahk/lume sahk/plow. Still not production-grade, but the misrouting bug is addressed.

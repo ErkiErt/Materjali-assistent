@@ -1,3 +1,10 @@
-# Material DB Start Work
+# Material DB Start Work (fixed)
 
-Run schema.sql then load_all.py.
+This build fixes the snow-plow keyword mapping.
+
+## New search keywords
+- sahk
+- lume sahk
+- plow
+
+Run `python search.py sahk` to verify category detection.
